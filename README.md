@@ -1,1 +1,1 @@
-# Liquid for Shopify Development :
+#✨ Liquid for Shopify Development :
