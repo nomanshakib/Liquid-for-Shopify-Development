@@ -12,3 +12,8 @@
 ### {{ }} ------ Display
 ### {% %} ------ Dynamic Quary
 
+
+# Completed Topic :
+- Shopify File Structure and Layout Management
+- Section and Liquid Schema
+- Liquid Tags, Fiter, Object Structure Part
