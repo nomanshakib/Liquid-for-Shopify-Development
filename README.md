@@ -6,3 +6,6 @@
 - tags
 - Object
 - filter
+
+### {{ }} ------ Display
+### {% %} ------ Dynamic Quary
