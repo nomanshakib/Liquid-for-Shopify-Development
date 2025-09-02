@@ -4,7 +4,6 @@
 - #### Liquid Cheet Sheet : https://www.shopify.com/partners/shopify-cheat-sheet
 - <img width="263" height="48" alt="image" src="https://github.com/user-attachments/assets/f2e30ba5-f1f5-4518-b971-aec4f28992ed" /> https://community.shopify.dev/
 
-<br>
 ## Shopify Liquid Based on 3 things :
 - tags
 - Object
